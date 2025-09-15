@@ -24,10 +24,16 @@ It shows how to use branches, commits, pushes, and pull requests on GitHub.
 Run any file using Python:
 
 ```bash
-python main.py
-python sum.py
-python difference.py
-python product.py
-python division.py
+# Arithmetic Operations Project
+
+This project demonstrates basic arithmetic operations in Python.
+
+## Files (in order of execution)
+1. [main.py](main.py) – Entry point of the project  
+2. [sum.py](sum.py) – Function for addition  
+3. [difference.py](difference.py) – Function for subtraction  
+4. [product.py](product.py) – Function for multiplication  
+5. [division.py](division.py) – Function for division  
+
 
 Updated README with project details
